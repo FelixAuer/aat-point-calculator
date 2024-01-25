@@ -6,17 +6,19 @@ namespace AATCalculator.Calculators;
 public class TopPercentCalculator : IPointCalculator
 {
     private readonly float _topPercentage;
+    private readonly int _points;
 
-    public TopPercentCalculator(float topPercentage)
+    public TopPercentCalculator(float topPercentage, int points)
     {
         _topPercentage = topPercentage;
+        _points = points;
     }
 
     public int CalculatePoints(Result result, Division division)
     {
         if (division.Results.Count == 1)
         {
-            return 50;
+            return _points;
         }
 
         var maxPlaceEarning = division.Results.Count * _topPercentage;
@@ -25,6 +27,6 @@ public class TopPercentCalculator : IPointCalculator
             return 0;
         }
 
-        return (int)(50 * (1 - (result.Place - 1) / maxPlaceEarning));
+        return (int)(_points * (1 - (result.Place - 1) / maxPlaceEarning));
     }
 }

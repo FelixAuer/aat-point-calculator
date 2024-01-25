@@ -5,7 +5,7 @@ namespace AATCalculator.Calculators;
 public class TopPercentageAndBeatenCalculator : IPointCalculator
 {
     private readonly BeatenPlayersCalculator _beatenPlayersCalculator = new();
-    private readonly TopPercentCalculator _topPercentCalculator = new(0.5f);
+    private readonly TopPercentCalculator _topPercentCalculator = new(0.5f, 50);
 
     public int CalculatePoints(Result result, Division division)
     {
