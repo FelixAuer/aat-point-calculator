@@ -13,6 +13,6 @@ public class Result
 
     public void Print()
     {
-        Console.WriteLine(Place + " " + Name + " " + PdgaNumber + " " + Total + " Points: " + Points);
+        Console.WriteLine(Place + " " + Name + " " + Total + " Points: " + Points);
     }
 }

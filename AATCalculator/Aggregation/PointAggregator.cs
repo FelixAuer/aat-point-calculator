@@ -19,7 +19,7 @@ public class PointAggregator
 
     private void AddResult(Result result)
     {
-        var identifier = result.Name + ", " + result.PdgaNumber;
+        var identifier = result.Name;
         _points.TryAdd(identifier, 0);
         _points[identifier] += result.Points;
     }
