@@ -1,0 +1,323 @@
+﻿{
+  "name": "Unicorn Open 2023",
+  "divisions": [{
+    "name": "RPA",
+    "results": [{
+      "name": "Florian Lingenhel",
+      "pdga-number": "77589",
+      "place": "1",
+      "total": "164"
+    },{
+      "name": "Jakob Ettlinger",
+      "pdga-number": "153813",
+      "place": "2",
+      "total": "166"
+    },{
+      "name": "Dennis Schüler",
+      "pdga-number": "124247",
+      "place": "3",
+      "total": "172"
+    },{
+      "name": "Lukas Froschauer",
+      "pdga-number": "64252",
+      "place": "4",
+      "total": "188"
+    },{
+      "name": "Werner Riebesel",
+      "pdga-number": "71245",
+      "place": "5",
+      "total": "191"
+    },{
+      "name": "Tobias Königbauer",
+      "pdga-number": "193963",
+      "place": "6",
+      "total": "195"
+    }]},{
+    "name": "RAH",
+    "results": [{
+      "name": "Arno Lingenhel",
+      "pdga-number": "82047",
+      "place": "1",
+      "total": "182"
+    },{
+      "name": "Roland Wieland",
+      "pdga-number": "104911",
+      "place": "2",
+      "total": "189"
+    },{
+      "name": "Wolfgang Aichinger",
+      "pdga-number": "71670",
+      "place": "3",
+      "total": "193"
+    },{
+      "name": "Moritz Lang",
+      "pdga-number": "35083",
+      "place": "4",
+      "total": "196"
+    },{
+      "name": "Stephan Kessler",
+      "pdga-number": "5336",
+      "place": "4",
+      "total": "196"
+    }]},{
+    "name": "RAD",
+    "results": [{
+      "name": "Darius Žukauskas",
+      "pdga-number": "133672",
+      "place": "1",
+      "total": "185"
+    },{
+      "name": "Timo Föhr",
+      "pdga-number": "",
+      "place": "2",
+      "total": "191"
+    },{
+      "name": "Christian Klima",
+      "pdga-number": "64260",
+      "place": "3",
+      "total": "198"
+    },{
+      "name": "Kevin Schüler",
+      "pdga-number": "120922",
+      "place": "4",
+      "total": "200"
+    }]},{
+    "name": "RAE",
+    "results": [{
+      "name": "Georg Thauerböck",
+      "pdga-number": "214410",
+      "place": "1",
+      "total": "191"
+    },{
+      "name": "Patryk Filipczak",
+      "pdga-number": "229937",
+      "place": "2",
+      "total": "193"
+    },{
+      "name": "Leopold Kronsteiner",
+      "pdga-number": "187561",
+      "place": "3",
+      "total": "199"
+    },{
+      "name": "Andreas Trondl",
+      "pdga-number": "146148",
+      "place": "4",
+      "total": "200"
+    },{
+      "name": "Mark von Roy",
+      "pdga-number": "258919",
+      "place": "5",
+      "total": "202"
+    },{
+      "name": "Florian Wallisch",
+      "pdga-number": "83504",
+      "place": "5",
+      "total": "202"
+    },{
+      "name": "Elias Marginter",
+      "pdga-number": "116747",
+      "place": "5",
+      "total": "202"
+    },{
+      "name": "Andreas Rießenberger",
+      "pdga-number": "165320",
+      "place": "8",
+      "total": "207"
+    },{
+      "name": "Patrick Prestel",
+      "pdga-number": "",
+      "place": "9",
+      "total": "211"
+    },{
+      "name": "Andreas Wimmer",
+      "pdga-number": "175515",
+      "place": "10",
+      "total": "213"
+    },{
+      "name": "Markus Woletz",
+      "pdga-number": "124736",
+      "place": "10",
+      "total": "213"
+    },{
+      "name": "Michael Storde",
+      "pdga-number": "",
+      "place": "12",
+      "total": "217"
+    }]},{
+    "name": "RAF",
+    "results": [{
+      "name": "Lukas Buchner",
+      "pdga-number": "232531",
+      "place": "1",
+      "total": "194"
+    },{
+      "name": "Paul Dragaschnig",
+      "pdga-number": "246359",
+      "place": "2",
+      "total": "201"
+    },{
+      "name": "Florian Kamp",
+      "pdga-number": "",
+      "place": "3",
+      "total": "202"
+    },{
+      "name": "Florian Kotlaba",
+      "pdga-number": "250823",
+      "place": "4",
+      "total": "206"
+    },{
+      "name": "Andreas Kirchmaier",
+      "pdga-number": "165156",
+      "place": "5",
+      "total": "209"
+    },{
+      "name": "Jakob Wöckinger",
+      "pdga-number": "242783",
+      "place": "6",
+      "total": "210"
+    },{
+      "name": "Oksana Zukauskiene",
+      "pdga-number": "133493",
+      "place": "7",
+      "total": "213"
+    },{
+      "name": "Ann-Kathrin Blum",
+      "pdga-number": "",
+      "place": "8",
+      "total": "216"
+    },{
+      "name": "Nevio Wieland",
+      "pdga-number": "237181",
+      "place": "8",
+      "total": "216"
+    },{
+      "name": "Rouven Maue",
+      "pdga-number": "248634",
+      "place": "10",
+      "total": "217"
+    },{
+      "name": "Patrick Hechenberger",
+      "pdga-number": "177162",
+      "place": "10",
+      "total": "217"
+    },{
+      "name": "Rupert Sonnberger",
+      "pdga-number": "246440",
+      "place": "12",
+      "total": "220"
+    },{
+      "name": "Alexander Hüttner",
+      "pdga-number": "218478",
+      "place": "13",
+      "total": "223"
+    },{
+      "name": "Ludwig Maximilian Steinert",
+      "pdga-number": "",
+      "place": "14",
+      "total": "225"
+    },{
+      "name": "Simon Konzett",
+      "pdga-number": "205203",
+      "place": "15",
+      "total": "226"
+    },{
+      "name": "Andreas Peter",
+      "pdga-number": "225477",
+      "place": "16",
+      "total": "227"
+    },{
+      "name": "Peter Teuchert",
+      "pdga-number": "112977",
+      "place": "17",
+      "total": "229"
+    },{
+      "name": "Ander Auer",
+      "pdga-number": "251572",
+      "place": "18",
+      "total": "230"
+    },{
+      "name": "Georg Oder",
+      "pdga-number": "",
+      "place": "19",
+      "total": "232"
+    },{
+      "name": "Alexander Huber",
+      "pdga-number": "245139",
+      "place": "20",
+      "total": "233"
+    },{
+      "name": "Daniel Polz",
+      "pdga-number": "",
+      "place": "20",
+      "total": "233"
+    },{
+      "name": "Markus Ettlinger",
+      "pdga-number": "256152",
+      "place": "20",
+      "total": "233"
+    },{
+      "name": "Malte Kück",
+      "pdga-number": "",
+      "place": "23",
+      "total": "235"
+    },{
+      "name": "Tobias Hanika",
+      "pdga-number": "242786",
+      "place": "23",
+      "total": "235"
+    },{
+      "name": "Birgit Lingenhel",
+      "pdga-number": "70932",
+      "place": "23",
+      "total": "235"
+    },{
+      "name": "Georg Hochschwarzer",
+      "pdga-number": "259237",
+      "place": "26",
+      "total": "236"
+    },{
+      "name": "Cornelia Hackl",
+      "pdga-number": "146142",
+      "place": "26",
+      "total": "236"
+    },{
+      "name": "Gerald Froschauer",
+      "pdga-number": "176686",
+      "place": "28",
+      "total": "240"
+    },{
+      "name": "Dan-Ian Nicolas",
+      "pdga-number": "",
+      "place": "29",
+      "total": "247"
+    },{
+      "name": "Tanja Ackstaller",
+      "pdga-number": "",
+      "place": "30",
+      "total": "248"
+    },{
+      "name": "Max Leicher",
+      "pdga-number": "237847",
+      "place": "31",
+      "total": "249"
+    },{
+      "name": "Simon Thaler",
+      "pdga-number": "252678",
+      "place": "32",
+      "total": "DNF"
+    },{
+      "name": "Florian Kirchmaier",
+      "pdga-number": "165155",
+      "place": "32",
+      "total": "DNF"
+    },{
+      "name": "Manfred Buchberger–Steiner",
+      "pdga-number": "180391",
+      "place": "32",
+      "total": "DNF"
+    },{
+      "name": "Andrea Klima",
+      "pdga-number": "179187",
+      "place": "35",
+      "total": "DNF"
+    }]}]}

@@ -1,0 +1,451 @@
+{
+    "name": "Schöckl Warmup 2023 (AAT)",
+    "divisions": [
+        {
+            "name": "RPA",
+            "results": [
+                {
+                    "name": "Leon Sonnleitner",
+                    "pdga-number": "81120",
+                    "place": "1",
+                    "total": "97"
+                },
+                {
+                    "name": "Stefan Sonnleitner",
+                    "pdga-number": "80613",
+                    "place": "2",
+                    "total": "106"
+                },
+                {
+                    "name": "Niklas Schaffer",
+                    "pdga-number": "138699",
+                    "place": "3",
+                    "total": "110"
+                },
+                {
+                    "name": "Thomas Hirsch",
+                    "pdga-number": "133515",
+                    "place": "3",
+                    "total": "110"
+                },
+                {
+                    "name": "Manuel Oman",
+                    "pdga-number": "72562",
+                    "place": "5",
+                    "total": "115"
+                }
+            ]
+        },
+        {
+            "name": "RAD",
+            "results": [
+                {
+                    "name": "Max Menner",
+                    "pdga-number": "111563",
+                    "place": "1",
+                    "total": "112"
+                },
+                {
+                    "name": "Stefan Leitinger",
+                    "pdga-number": "188405",
+                    "place": "2",
+                    "total": "115"
+                },
+                {
+                    "name": "Alexander Thiel",
+                    "pdga-number": "127746",
+                    "place": "3",
+                    "total": "119"
+                },
+                {
+                    "name": "Michael Narath",
+                    "pdga-number": "146141",
+                    "place": "3",
+                    "total": "119"
+                },
+                {
+                    "name": "Eric Osterwinter",
+                    "pdga-number": "63413",
+                    "place": "3",
+                    "total": "119"
+                },
+                {
+                    "name": "Gerhard Schwarz",
+                    "pdga-number": "120625",
+                    "place": "6",
+                    "total": "120"
+                },
+                {
+                    "name": "Philipp Friedler",
+                    "pdga-number": "183997",
+                    "place": "7",
+                    "total": "122"
+                },
+                {
+                    "name": "David Wernig",
+                    "pdga-number": "143976",
+                    "place": "8",
+                    "total": "125"
+                }
+            ]
+        },
+        {
+            "name": "RAE",
+            "results": [
+                {
+                    "name": "Florian Maurer",
+                    "pdga-number": "165517",
+                    "place": "1",
+                    "total": "113"
+                },
+                {
+                    "name": "Wolfgang Fröhlich",
+                    "pdga-number": "135371",
+                    "place": "2",
+                    "total": "113"
+                },
+                {
+                    "name": "Sebastian Reicher",
+                    "pdga-number": "173728",
+                    "place": "3",
+                    "total": "116"
+                },
+                {
+                    "name": "Benjamin Mauch",
+                    "pdga-number": "184928",
+                    "place": "4",
+                    "total": "125"
+                },
+                {
+                    "name": "Georg Knirsch",
+                    "pdga-number": "204817",
+                    "place": "4",
+                    "total": "125"
+                },
+                {
+                    "name": "Benjamin Schratzer",
+                    "pdga-number": "183011",
+                    "place": "4",
+                    "total": "125"
+                },
+                {
+                    "name": "Manuel Hochreiter",
+                    "pdga-number": "209950",
+                    "place": "7",
+                    "total": "126"
+                },
+                {
+                    "name": "Victor Scheruga",
+                    "pdga-number": "195128",
+                    "place": "8",
+                    "total": "127"
+                },
+                {
+                    "name": "Patryk Filipczak",
+                    "pdga-number": "229937",
+                    "place": "8",
+                    "total": "127"
+                },
+                {
+                    "name": "Roland Wukovits",
+                    "pdga-number": "187476",
+                    "place": "8",
+                    "total": "127"
+                },
+                {
+                    "name": "Elias Marginter",
+                    "pdga-number": "116747",
+                    "place": "8",
+                    "total": "127"
+                },
+                {
+                    "name": "Stefan Niederl",
+                    "pdga-number": "140087",
+                    "place": "12",
+                    "total": "128"
+                },
+                {
+                    "name": "Baris Sövuksu",
+                    "pdga-number": "164856",
+                    "place": "13",
+                    "total": "129"
+                },
+                {
+                    "name": "Peter Schwartz",
+                    "pdga-number": "170891",
+                    "place": "14",
+                    "total": "130"
+                },
+                {
+                    "name": "Thomas Hofegger",
+                    "pdga-number": "148599",
+                    "place": "14",
+                    "total": "130"
+                },
+                {
+                    "name": "Marco Jandl",
+                    "pdga-number": "184191",
+                    "place": "14",
+                    "total": "130"
+                },
+                {
+                    "name": "Matthias Riedl",
+                    "pdga-number": "219044",
+                    "place": "17",
+                    "total": "132"
+                },
+                {
+                    "name": "Leopold Kronsteiner",
+                    "pdga-number": "187561",
+                    "place": "18",
+                    "total": "133"
+                },
+                {
+                    "name": "Lukas Grablowitz",
+                    "pdga-number": "247514",
+                    "place": "19",
+                    "total": "136"
+                },
+                {
+                    "name": "David Janz",
+                    "pdga-number": "118166",
+                    "place": "20",
+                    "total": "137"
+                },
+                {
+                    "name": "Andreas Kanelutti",
+                    "pdga-number": "172706",
+                    "place": "21",
+                    "total": "142"
+                }
+            ]
+        },
+        {
+            "name": "RAF",
+            "results": [
+                {
+                    "name": "Jonas Riedel",
+                    "pdga-number": "147031",
+                    "place": "1",
+                    "total": "124"
+                },
+                {
+                    "name": "Maximilian Maetz",
+                    "pdga-number": "232826",
+                    "place": "2",
+                    "total": "127"
+                },
+                {
+                    "name": "Felix Auer",
+                    "pdga-number": "183010",
+                    "place": "3",
+                    "total": "128"
+                },
+                {
+                    "name": "Daniel Engler",
+                    "pdga-number": "183707",
+                    "place": "3",
+                    "total": "128"
+                },
+                {
+                    "name": "Gernot Kristoferitsch",
+                    "pdga-number": "202207",
+                    "place": "5",
+                    "total": "129"
+                },
+                {
+                    "name": "Matthias Krennmueller",
+                    "pdga-number": "255236",
+                    "place": "5",
+                    "total": "129"
+                },
+                {
+                    "name": "Michael Stanje",
+                    "pdga-number": "144157",
+                    "place": "5",
+                    "total": "129"
+                },
+                {
+                    "name": "Alexander Huber",
+                    "pdga-number": "245139",
+                    "place": "8",
+                    "total": "131"
+                },
+                {
+                    "name": "Andreas Koch",
+                    "pdga-number": "154785",
+                    "place": "8",
+                    "total": "131"
+                },
+                {
+                    "name": "Christian Paier",
+                    "pdga-number": "190197",
+                    "place": "10",
+                    "total": "132"
+                },
+                {
+                    "name": "André Salzer",
+                    "pdga-number": "230025",
+                    "place": "11",
+                    "total": "134"
+                },
+                {
+                    "name": "Bernhard Freytag",
+                    "pdga-number": "109094",
+                    "place": "12",
+                    "total": "135"
+                },
+                {
+                    "name": "Franz Scheruga",
+                    "pdga-number": "195127",
+                    "place": "13",
+                    "total": "136"
+                },
+                {
+                    "name": "Jakob Wöckinger",
+                    "pdga-number": "242783",
+                    "place": "13",
+                    "total": "136"
+                },
+                {
+                    "name": "Balázs-Peter Metzger",
+                    "pdga-number": "71356",
+                    "place": "15",
+                    "total": "137"
+                },
+                {
+                    "name": "Daniel Laubenstein",
+                    "pdga-number": "166096",
+                    "place": "16",
+                    "total": "138"
+                },
+                {
+                    "name": "Alexander Arndt",
+                    "pdga-number": "183712",
+                    "place": "16",
+                    "total": "138"
+                },
+                {
+                    "name": "Alexander Müller",
+                    "pdga-number": "189903",
+                    "place": "16",
+                    "total": "138"
+                },
+                {
+                    "name": "Stefan Topolovec",
+                    "pdga-number": "64246",
+                    "place": "16",
+                    "total": "138"
+                },
+                {
+                    "name": "Nikolaus Österreicher",
+                    "pdga-number": "96409",
+                    "place": "20",
+                    "total": "140"
+                },
+                {
+                    "name": "Andreas Kuster",
+                    "pdga-number": "146643",
+                    "place": "20",
+                    "total": "140"
+                },
+                {
+                    "name": "Simon Konzett",
+                    "pdga-number": "205203",
+                    "place": "20",
+                    "total": "140"
+                },
+                {
+                    "name": "Andreas Janz",
+                    "pdga-number": "207268",
+                    "place": "23",
+                    "total": "143"
+                },
+                {
+                    "name": "Martin Saminger",
+                    "pdga-number": "133259",
+                    "place": "23",
+                    "total": "143"
+                },
+                {
+                    "name": "Erik Truger",
+                    "pdga-number": "155283",
+                    "place": "23",
+                    "total": "143"
+                },
+                {
+                    "name": "Robert Krisper",
+                    "pdga-number": "186899",
+                    "place": "26",
+                    "total": "144"
+                },
+                {
+                    "name": "Rafael Mitteröcker",
+                    "pdga-number": "254585",
+                    "place": "26",
+                    "total": "144"
+                },
+                {
+                    "name": "Heinrich Einzinger",
+                    "pdga-number": "125202",
+                    "place": "28",
+                    "total": "146"
+                },
+                {
+                    "name": "Rudolf Rutter",
+                    "pdga-number": "249407",
+                    "place": "29",
+                    "total": "147"
+                },
+                {
+                    "name": "Tobias Hanika",
+                    "pdga-number": "242786",
+                    "place": "30",
+                    "total": "148"
+                },
+                {
+                    "name": "Marcus Waldhütter",
+                    "pdga-number": "189901",
+                    "place": "31",
+                    "total": "151"
+                },
+                {
+                    "name": "Raphael Raupenstrauch",
+                    "pdga-number": "254860",
+                    "place": "32",
+                    "total": "152"
+                },
+                {
+                    "name": "Markus Mitteröcker",
+                    "pdga-number": "236098",
+                    "place": "33",
+                    "total": "155"
+                },
+                {
+                    "name": "Daniel Wertjanz",
+                    "pdga-number": "255284",
+                    "place": "34",
+                    "total": "157"
+                },
+                {
+                    "name": "Barbara Kanelutti",
+                    "pdga-number": "188342",
+                    "place": "35",
+                    "total": "159"
+                },
+                {
+                    "name": "Carolina Egkher",
+                    "pdga-number": "252976",
+                    "place": "36",
+                    "total": "160"
+                },
+                {
+                    "name": "Raphaela Narath",
+                    "pdga-number": "181593",
+                    "place": "37",
+                    "total": "DNF"
+                }
+            ]
+        }
+    ]
+}
